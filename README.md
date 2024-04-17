@@ -1,5 +1,12 @@
 ### Hi there 👋
+Hi there 👋
+Nice to meet you!
 
+I am Promise Ezemokwe.
+
+You can reach me on X
+
+Looking Forward to meeting you!
 <!--
 **datiampromise/datiampromise** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
